@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.boxA,
+.boxB {
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman',sans-serif;
+}
+
+.boxA{
+    background-color: black;
+    color: white;
+}
+
+.boxB{
+    background-color: yellow;
+}
